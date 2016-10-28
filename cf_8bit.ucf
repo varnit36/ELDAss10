@@ -1,0 +1,11 @@
+NET "a" LOC = "N3" ;
+NET "b" LOC = "E2" ;
+NET "c" LOC = "F3" ;
+NET "d" LOC = "G3" ;
+NET "e" LOC = "B4" ;
+NET "f" LOC = "K3" ;
+NET "g" LOC = "L3" ;
+NET "h" LOC = "P11" ;
+NET "outp[0]" LOC = "P7" ;
+NET "outp[1]" LOC = "M11" ;
+NET "outp[2]" LOC = "M5" ; 
